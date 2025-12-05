@@ -40,3 +40,39 @@ Rural_Health_Triage/
 │
 ├── requirements.txt      # Dependencies
 └── README.md             # Documentation
+How to Run Locally
+Clone the Repository
+
+Bash
+
+git clone [https://github.com/YOUR-USERNAME/Rural-Health-Triage-System.git](https://github.com/YOUR-USERNAME/Rural-Health-Triage-System.git)
+cd Rural-Health-Triage-System
+Install Dependencies
+
+Bash
+
+pip install -r requirements.txt
+Setup Data
+
+Download the Pima Indians Diabetes Database.
+
+Place the diabetes.csv file inside the data/ folder.
+
+Run the Diagnostic Tool
+
+Bash
+
+python src/app.py
+📊 Results
+Algorithm: K-Nearest Neighbors (K=11)
+
+Accuracy: ~75-80% (on test data)
+
+Features: Pregnancies, Glucose, BP, Skin Thickness, Insulin, BMI, Pedigree Function, Age.
+
+🔮 Future Scope
+Deploying as a mobile app for tablets used by ASHA workers.
+
+Adding support for Heart Disease prediction.
+
+Multilingual interface (Hindi/Regional languages) for ease of use.
