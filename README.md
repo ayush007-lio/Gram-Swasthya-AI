@@ -12,6 +12,7 @@
 In many rural areas, the ratio of doctors to patients is critically low. Villagers often ignore early symptoms of chronic diseases like Diabetes, leading to severe complications later.
 
 This project bridges this gap by providing a **Smart Triage Tool** for frontline health workers (like ASHA workers). It uses the **K-Nearest Neighbors (KNN)** algorithm to analyze patient vitals and predict the likelihood of Diabetes, allowing for early intervention and prioritized referrals to city hospitals.
+## screenshoot <img width="1248" height="640" alt="Screenshot (70)" src="https://github.com/user-attachments/assets/16304a74-779f-4730-89ad-32ad6e7ef016" />
 
 ## 🎯 Societal & Government Impact
 * **Empowering Frontline Workers:** Gives advanced diagnostic capability to non-specialist staff.
